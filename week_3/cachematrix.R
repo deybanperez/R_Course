@@ -31,7 +31,7 @@ makeCacheMatrix <- function(x = matrix())
 }
 
 
-## HEre you use de above function and ask for the inverse, if this is not calcutade yet
+## Here you use de above function and ask for the inverse, if this is not calcutade yet
 ## it is calculated, the value is update in the matrix object else the inverse is
 ## returned from the getinverse function
 
